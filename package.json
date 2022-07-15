@@ -1,0 +1,23 @@
+{
+  "name": "newbies-onboarding-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntShkliarov/newbies-onboarding-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntShkliarov/newbies-onboarding-cypress/issues"
+  },
+  "homepage": "https://github.com/AntShkliarov/newbies-onboarding-cypress#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "cypress": "^10.3.0"
+  }
+}
